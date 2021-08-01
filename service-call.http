@@ -1,0 +1,2 @@
+# URL to read a properties file
+GET http://localhost:8888/limit-service/default HTTP/1.1
